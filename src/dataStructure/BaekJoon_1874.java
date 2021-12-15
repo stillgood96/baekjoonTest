@@ -3,7 +3,7 @@ package dataStructure;
 import java.util.Scanner;
 import java.util.Stack;
 
-public class baekjoon_1874 {
+public class BaekJoon_1874 {
 
 
     public static void main(String[] args) {

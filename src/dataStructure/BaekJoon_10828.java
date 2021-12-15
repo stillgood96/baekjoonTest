@@ -2,7 +2,7 @@ package dataStructure;
 
 import java.util.Scanner;
 
-public class baekjoon_10828 {
+public class BaekJoon_10828 {
 
     static int [] stack;
     static int size = 0;
