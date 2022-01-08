@@ -1,8 +1,8 @@
-package bronz5;
+package bronzeV;
 
 import java.util.Scanner;
 
-public class baekjoon_1550 {
+public class Baekjoon_1550 {
     // 16진수 값을 입력받고
     // 입력받은 값을 10진수로 출력하라.
     public static void main(String[] args) {

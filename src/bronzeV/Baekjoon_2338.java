@@ -1,9 +1,9 @@
-package bronz5;
+package bronzeV;
 
 import java.math.BigInteger;
 import java.util.Scanner;
 
-public class baekjoon_2338 {
+public class Baekjoon_2338 {
 
 
     public static void main(String[] args) {
