@@ -9,5 +9,12 @@
       <jdbc-url>jdbc:oracle:thin:@database-1.cxzo5gfupyo1.us-east-1.rds.amazonaws.com:1521:ORCL</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
+    <data-source source="LOCAL" name="jiniworks@127.0.0.1" uuid="60210647-d0c2-403e-bee2-525a026ae51b">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1:3306/jiniworks</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
   </component>
 </project>
